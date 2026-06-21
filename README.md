@@ -1,4 +1,4 @@
-Multiple_Disease_Prediction
+# Multiple_Disease_Prediction
 
 The Multiple Disease Prediction System is an intelligent, machine learning–based application designed to predict the likelihood of various diseases—such as Diabetes, Heart Disease, and Parkinson’s—using patient health data. The system analyzes medical parameters like glucose level, blood pressure, heart rate, and other clinical inputs to generate accurate and early predictions.
 
